@@ -1,4 +1,4 @@
-number=int(input(Enter a non-negative integer:"))
+number=int(input("Enter a non-negative integer:"))
 factorial=1
 if number<0:
   print("Factorial is not defined for negative numbers.")
